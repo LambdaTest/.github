@@ -28,6 +28,7 @@
 | **KaneAI** | GenAI-native testing agent. Author, evolve, and debug tests in natural language | [Get started](https://www.testmuai.com/support/docs/getting-started-with-kane-ai/) |
 | **Kane CLI** | Testing agent for humans and agents. Test authoring from the terminal | [Get started](https://www.testmuai.com/docs/kane-cli-introduction) |
 | **Agent Testing** | Validate autonomous AI agents before deployment. Chat, voice, and phone agents tested for accuracy and hallucination |[Get started](https://www.testmuai.com/support/docs/getting-started-with-agent-testing-platform/) |
+| **MCP Server** | Connect Claude, Cursor, or any MCP client to your testing environment. HyperExecute, Automation, SmartUI, Accessibility, and Test Manager tools in natural language | [Get started](https://www.testmuai.com/support/docs/testmu-mcp-server/) |
 | **HyperExecute** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
 | **Automation Cloud** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/getting-started-with-testmu-automation/) |
 | **App Automation** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
