@@ -1,27 +1,46 @@
-<h1 align="center">TestMu AI - A Full Stack Agentic AI Quality Engineering Platform</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="BANNER_DARK_URL">
+    <img alt="TestMu AI" src="BANNER_LIGHT_URL" width="100%">
+  </picture>
+</p>
+
+<h1 align="center">TestMu AI: A Full Stack Agentic AI Quality Engineering Platform</h1>
 
 <p align="center">
   The native AI-agentic cloud to author, orchestrate, and run tests at scale.<br>
-  Web, mobile, visual, accessibility, and AI agent testing in one platform.
+  End-to-End (E2E) testing for web, mobile, visual, accessibility, and AI agents in one platform.
 </p>
 
 <p align="center">
-  <a href="https://www.testmuai.com/register/"><img src="https://img.shields.io/badge/Start_Free_Testing-0B0B0B?style=for-the-badge&logo=rocket&logoColor=white" alt="Start free"></a>
-  <a href="https://www.testmuai.com/support/docs/"><img src="https://img.shields.io/badge/Documentation-0B0B0B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
-  <a href="https://www.testmuai.com/pricing/"><img src="https://img.shields.io/badge/Pricing-0B0B0B?style=for-the-badge&logo=stripe&logoColor=white" alt="Pricing"></a>
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/START_FREE_TESTING-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Start free testing"></a>
+  <a href="https://www.testmuai.com/support/docs/"><img src="https://img.shields.io/badge/DOCUMENTATION-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation"></a>
+  <a href="https://www.testmuai.com/pricing/"><img src="https://img.shields.io/badge/PRICING-000000?style=for-the-badge&logo=cashapp&logoColor=white" alt="Pricing"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/users-3M%2B-0B0B0B?style=flat-square" alt="3M+ users">
-  <img src="https://img.shields.io/badge/enterprises-18K%2B-0B0B0B?style=flat-square" alt="18K+ enterprises">
-  <img src="https://img.shields.io/badge/tests_executed-1.5B%2B-0B0B0B?style=flat-square" alt="1.5B+ tests executed">
-  <img src="https://img.shields.io/badge/countries-132-0B0B0B?style=flat-square" alt="132 countries">
-  <img src="https://img.shields.io/badge/integrations-120%2B-0B0B0B?style=flat-square" alt="120+ integrations">
+  <img src="https://img.shields.io/badge/users-3M%2B-111" alt="3M+ users">
+  <img src="https://img.shields.io/badge/enterprises-18K%2B-111" alt="18K+ enterprises">
+  <img src="https://img.shields.io/badge/tests_executed-1.5B%2B-111" alt="1.5B+ tests executed">
+  <img src="https://img.shields.io/badge/countries-132-111" alt="132 countries">
+  <img src="https://img.shields.io/badge/integrations-120%2B-111" alt="120+ integrations">
 </p>
 
 ---
 
-## What we build
+## 👋 Hey, this is us
+
+We are TestMu AI, the full-stack agentic AI quality engineering cloud. We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
+
+Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we assure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
+
+## 🔁 One platform for every stage of End-to-End (E2E) testing
+
+E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
+
+<centre><img width="805" height="346" alt="image" src="https://github.com/user-attachments/assets/b542f39c-f91d-421d-bc63-a94e62549b4b" /></centre>
+
+## 🧰 What we build
 
 | Product | What it does | Docs |
 |---|---|---|
@@ -38,15 +57,42 @@
 | **Browser Cloud** | Browser infrastructure for AI agents. Sessions on demand, at scale | [Get started](https://www.testmuai.com/support/docs/what-is-browser-cloud/) |
 | **Test Manager** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
 
+## 🧩 Works with your stack
 
-<p align="center">
-  <sub>
-    TestMu AI (Formerly LambdaTest)<br>
-    <a href="https://www.testmuai.com/">Website</a> ·
-    <a href="https://www.testmuai.com/blog/">Blog</a> ·
-    <a href="https://x.com/testmuai">X</a> ·
-    <a href="https://www.linkedin.com/company/testmu-ai">LinkedIn</a> ·
-    <a href="https://www.youtube.com/@TestMuAI">YouTube</a> ·
-    <a href="mailto:support@testmuai.com">support@testmuai.com</a>
-  </sub>
+**Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white">
+  <img src="https://img.shields.io/badge/Appium-662CBE?logo=appium&logoColor=white">
+  <img src="https://img.shields.io/badge/Espresso-3DDC84?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/XCUITest-000000?logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
 </p>
+
+**CI/CD and workflow**
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
+</p>
+
+See all [120+ integrations](https://www.testmuai.com/integrations/).
+
+## 🎓 Learn and grow
+
+- **[Test Automation Certifications](https://www.testmuai.com/certifications/)**: Free certifications for testers and developers
+- **[Learning Hub](https://www.testmuai.com/learning-hub/)**: Guides on E2E testing, automation, and test strategy
+- **[Blog](https://www.testmuai.com/blog/)**: Practitioner write-ups from our engineers and community
+- **[TestMu Conf](https://www.testmuai.com/testmu-conf/)**: Our annual testing conference
+- **[YouTube](https://www.youtube.com/@TestMuAI)**: Tutorials, demos, and webinars
+
+## 🤝 Contributing
+
+Found a bug in a sample repo or want to add one? Open an issue or a pull request on that repo. Product questions go to [support@testmuai.com](mailto:support@testmuai.com).
+
+---
