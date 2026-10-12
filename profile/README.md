@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/START_FREE_TESTING-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Start free testing"></a>
+  <a href="https://www.testmuai.com/register/"><img src="https://img.shields.io/badge/START_FREE_TESTING-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Start free testing"></a>
   <a href="https://www.testmuai.com/support/docs/"><img src="https://img.shields.io/badge/DOCUMENTATION-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation"></a>
   <a href="https://www.testmuai.com/pricing/"><img src="https://img.shields.io/badge/PRICING-000000?style=for-the-badge&logo=cashapp&logoColor=white" alt="Pricing"></a>
 </p>
