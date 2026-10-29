@@ -1,4 +1,4 @@
-<h1 align="center">TestMu AI: A Full Stack Agentic AI Quality Engineering Platform</h1>
+<h1 align="center">TestMu AI (Formerly LambdaTest): An Agentic AI Quality Engineering Platform</h1>
 
 <p align="center">
   The native AI-agentic cloud to author, orchestrate, and run tests at scale.<br>
@@ -21,34 +21,44 @@
 
 ---
 
-## 👋 Hey, this is us
-
-We are TestMu AI, the full-stack agentic AI quality engineering cloud. We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
-
-Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we assure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
-
-## 🔁 One platform for every stage of End-to-End (E2E) testing
-
-E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
-
-<centre><img width="805" height="346" alt="image" src="https://github.com/user-attachments/assets/b542f39c-f91d-421d-bc63-a94e62549b4b" /></centre>
-
-## 🧰 What we build
+TestMu AI (Formerly LambdaTest) is an agentic AI quality engineering platform. LambdaTest became TestMu AI on January 12, 2026.
 
 | Product | What it does | Docs |
 |---|---|---|
-| **KaneAI** | GenAI-native testing agent. Author, evolve, and debug tests in natural language | [Get started](https://www.testmuai.com/support/docs/getting-started-with-kane-ai/) |
-| **Kane CLI** | Testing agent for humans and agents. Test authoring from the terminal | [Get started](https://www.testmuai.com/docs/kane-cli-introduction) |
-| **Agent Assurance** | Test conversational agents, autonomous agents, multi-agent systems, agentic workflows and processes.| [Get started](https://www.testmuai.com/support/docs/agent-assurance-quickstart/) |
-| **MCP Server** | Connect Claude, Cursor, or any MCP client to your testing environment. HyperExecute, Automation, SmartUI, Accessibility, and Test Manager tools in natural language | [Get started](https://www.testmuai.com/support/docs/testmu-mcp-server/) |
-| **HyperExecute** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
-| **Automation Cloud** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/getting-started-with-testmu-automation/) |
-| **App Automation** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
-| **Real Device Cloud** | Real Android and iOS devices for manual and automated testing | [Get started](https://www.testmuai.com/support/docs/app-testing-on-real-devices/) |
-| **SmartUI** | AI-native visual testing with visual diffing and root cause analysis | [Get started](https://www.testmuai.com/support/docs/smart-visual-regression-testing/) |
-| **Accessibility Testing** | WCAG, ADA, and Section 508 compliance testing | [Get started](https://www.testmuai.com/support/docs/accessibility-testing/) |
-| **Browser Cloud** | Browser infrastructure for AI agents. Sessions on demand, at scale | [Get started](https://www.testmuai.com/support/docs/what-is-browser-cloud/) |
-| **Test Manager** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
+| **[KaneAI](https://www.testmuai.com/kane-ai/)** | GenAI-native testing agent. Author, evolve, and debug tests in natural language | [Get started](https://www.testmuai.com/support/docs/getting-started-with-kane-ai/) |
+| **[Kane CLI](https://www.testmuai.com/kane-cli/)** | Testing agent for developers and coding agents. Runs natural language checks in a real browser and returns an evidence-backed pass/fail | [Get started](https://www.testmuai.com/docs/kane-cli-introduction) |
+| **[Agent Testing](https://www.testmuai.com/agent-testing/)** | Tests chat, voice, phone, video and image AI agents for hallucination, bias, toxicity and compliance | [Get started](https://www.testmuai.com/support/docs/getting-started-with-agent-testing-platform/) |
+| **[Agent Assurance](https://www.testmuai.com/agent-assurance/)** | Test conversational agents, autonomous agents, multi-agent systems, agentic workflows and processes.| [Get started](https://www.testmuai.com/support/docs/agent-assurance-quickstart/) |
+| **[MCP Server](https://www.testmuai.com/mcp/)** | Connect Claude, Cursor, or any MCP client to your testing environment. HyperExecute, Automation, SmartUI, Accessibility, and Test Manager tools in natural language | [Get started](https://www.testmuai.com/support/docs/testmu-mcp-server/) |
+| **[HyperExecute](https://www.testmuai.com/hyperexecute/)** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
+| **[Automation Cloud](https://www.testmuai.com/automation-cloud/)** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/getting-started-with-testmu-automation/) |
+| **[App Automation](https://www.testmuai.com/app-automation/)** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
+| **[Real Device Cloud](https://www.testmuai.com/real-device-cloud/)** | Real Android and iOS devices for manual and automated testing | [Get started](https://www.testmuai.com/support/docs/app-testing-on-real-devices/) |
+| **[SmartUI](https://www.testmuai.com/visual-testing-tool/)** | AI-native visual testing with visual diffing and root cause analysis | [Get started](https://www.testmuai.com/support/docs/smart-visual-regression-testing/) |
+| **[Accessibility Testing](https://www.testmuai.com/accessibility-testing/)** | WCAG, ADA, and Section 508 compliance testing | [Get started](https://www.testmuai.com/support/docs/accessibility-testing/) |
+| **[Browser Cloud](https://www.testmuai.com/browser-cloud/)** | Browser infrastructure for AI agents. Sessions on demand, at scale | [Get started](https://www.testmuai.com/support/docs/what-is-browser-cloud/) |
+| **[Test Manager](https://www.testmuai.com/test-manager/)** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
+
+
+- **Scale:** 3M+ users, 18K+ enterprises, 1.5B+ tests run, 132 countries, 50,000+ real devices, 120+ integrations.
+- **Recognition:** Leader, 2026 Gartner Magic Quadrant; The Forrester Wave: Autonomous Testing Platforms, Q4 2025; 4.6/5 on Capterra and Gartner Peer Insights.
+- **Pricing:** Free plans available; KaneAI from $17/month billed annually.
+
+
+## 🔁 One platform for every stage of End-to-End (E2E) testing
+
+We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
+
+Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we ensure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
+
+E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
+
+<br/>
+
+<img width="1030" height="572" alt="image" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
+
+
+
 
 ## 🧩 Works with your stack
 
