@@ -23,6 +23,12 @@
 
 TestMu AI (Formerly LambdaTest) is an agentic AI quality engineering platform. LambdaTest became TestMu AI on January 12, 2026.
 
+TestMu AI runs the whole lifecycle in one place: plan, author, execute, and analyze. Autonomous AI agents plan, write, and evolve your E2E tests from natural language prompts or company-wide context. They cover every layer, including UI, API, database, and performance. A high-performance agentic test cloud then runs those tests at any scale, on shared cloud, private cloud, or on-premises.
+
+<br/>
+
+<img width="1030" height="572" alt="TestMu AI platform across four stages: Planning (Test Manager), Authoring (KaneAI, Kane CLI, MCP Server, Agent Testing, Agent Assurance), Execute (HyperExecute), Analysis (Test Intelligence)" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
+
 
 ## 🧰 What we build
 
@@ -49,7 +55,7 @@ Every stage of testing, in one platform: plan, author, execute, and analyze, wit
 | Product | What it does | Docs |
 |---|---|---|
 | **[HyperExecute](https://www.testmuai.com/hyperexecute/)** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
-| **[Automation Cloud](https://www.testmuai.com/automation-cloud/)** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/getting-started-with-testmu-automation/) |
+| **[Automation Cloud](https://www.testmuai.com/automation-cloud/)** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/testmu-running-your-first-selenium-test/) |
 | **[Real Device Cloud](https://www.testmuai.com/real-device-cloud/)** | Real Android and iOS devices for manual and automated testing | [Get started](https://www.testmuai.com/support/docs/app-testing-on-real-devices/) |
 | **[App Automation](https://www.testmuai.com/app-automation/)** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
 | **[SmartUI](https://www.testmuai.com/visual-testing-tool/)** | AI-native visual testing with visual diffing and root cause analysis | [Get started](https://www.testmuai.com/support/docs/smart-visual-regression-testing/) |
@@ -66,15 +72,7 @@ Every stage of testing, in one platform: plan, author, execute, and analyze, wit
 - **Recognition**: Leader, 2026 Gartner Magic Quadrant; The Forrester Wave: Autonomous Testing Platforms, Q4 2025; 4.6/5 on Capterra and Gartner Peer Insights.
 - **Pricing**: free plans available; KaneAI from $17/month billed annually.
   
-## 🔁 One platform for every stage of End-to-End (E2E) testing
 
-E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
-
-Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise.
-
-<br/>
-
-<img width="1030" height="572" alt="TestMu AI platform across four stages: Planning (Test Manager), Authoring (KaneAI, Kane CLI, MCP Server, Agent Testing, Agent Assurance), Execute (HyperExecute), Analysis (Test Intelligence)" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
 
 
 ## 🧩 Works with your stack
