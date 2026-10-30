@@ -47,11 +47,14 @@ TestMu AI (Formerly LambdaTest) is an agentic AI quality engineering platform. L
 
 ## 🔁 One platform for every stage of End-to-End (E2E) testing
 
-We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
+We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform. E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
 
-Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we ensure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
+Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise.
 
-E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
+And if you're shipping AI of your own, we help you check that it works as intended, safely and securely:
+
+- **Agent Testing:** test your chatbot or voice assistant the way real users talk to it. It checks chat, voice, IVR, phone, video, and image agents for hallucination, bias, toxicity, and compliance.
+- **Agent Assurance:** test agents that act: AI agents that call tools, update records, or run multi-step workflows. It verifies what the agent actually did, not what it says it did. Covers autonomous agents, multi-agent systems, and agentic workflows.
 
 <br/>
 
