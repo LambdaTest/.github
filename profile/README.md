@@ -40,9 +40,9 @@ TestMu AI (Formerly LambdaTest) is an agentic AI quality engineering platform. L
 | **[Test Manager](https://www.testmuai.com/test-manager/)** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
 
 
-- **Scale:** 3M+ users, 18K+ enterprises, 1.5B+ tests run, 132 countries, 50,000+ real devices, 120+ integrations.
-- **Recognition:** Leader, 2026 Gartner Magic Quadrant; The Forrester Wave: Autonomous Testing Platforms, Q4 2025; 4.6/5 on Capterra and Gartner Peer Insights.
-- **Pricing:** Free plans available; KaneAI from $17/month billed annually.
+- **Scale**: 3M+ users, 18K+ enterprises, 1.5B+ tests run, 132 countries, 50,000+ real devices, 120+ integrations.
+- **Recognition**: Leader, 2026 Gartner Magic Quadrant; The Forrester Wave: Autonomous Testing Platforms, Q4 2025; 4.6/5 on Capterra and Gartner Peer Insights.
+- **Pricing**: free plans available; KaneAI from $17/month billed annually.
 
 
 ## 🔁 One platform for every stage of End-to-End (E2E) testing
@@ -53,12 +53,12 @@ Autonomous AI agents plan, author, and evolve your E2E tests from natural langua
 
 And if you're shipping AI of your own, we help you check that it works as intended, safely and securely:
 
-- **Agent Testing:** test your chatbot or voice assistant the way real users talk to it. It checks chat, voice, IVR, phone, video, and image agents for hallucination, bias, toxicity, and compliance.
-- **Agent Assurance:** test agents that act: AI agents that call tools, update records, or run multi-step workflows. It verifies what the agent actually did, not what it says it did. Covers autonomous agents, multi-agent systems, and agentic workflows.
+- **Agent Testing:** Test your chatbot or voice assistant the way real users talk to it. It checks chat, voice, IVR, phone, video, and image agents for hallucination, bias, toxicity, and compliance.
+- **Agent Assurance:** Tests AI agents that act: they call tools, write files, hit APIs, and run multi-step workflows. Verifies what the agent did, not what it said.
 
 <br/>
 
-<img width="1030" height="572" alt="image" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
+<img width="1030" height="572" alt="TestMu AI platform across four stages: Planning (Test Manager), Authoring (KaneAI, Kane CLI, MCP Server, Agent Testing, Agent Assurance), Execute (HyperExecute), Analysis (Test Intelligence)" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
 
 
 
@@ -94,7 +94,7 @@ See all [120+ integrations](https://www.testmuai.com/integrations/).
 - **[Test Automation Certifications](https://www.testmuai.com/certifications/)**: Free certifications for testers and developers
 - **[Learning Hub](https://www.testmuai.com/learning-hub/)**: Guides on E2E testing, automation, and test strategy
 - **[Blog](https://www.testmuai.com/blog/)**: Practitioner write-ups from our engineers and community
-- **[TestMu Conf](https://www.testmuai.com/testmu-conf/)**: Our annual testing conference
+- **[TestMu Conf'26](https://www.testmuai.com/testmuconf-2026/)**: Our annual testing conference
 - **[YouTube](https://www.youtube.com/@TestMuAI)**: Tutorials, demos, and webinars
 
 ## 🤝 Contributing
@@ -102,3 +102,6 @@ See all [120+ integrations](https://www.testmuai.com/integrations/).
 Found a bug in a sample repo or want to add one? Open an issue or a pull request on that repo. Product questions go to [support@testmuai.com](mailto:support@testmuai.com).
 
 ---
+
+**Disclaimer**: *Gartner, Magic Quadrant for Agentic Software Quality Assurance Platforms, By Ross Power, Sushant Singhal, C.A. Swan, 12 October 2026. Gartner and Magic Quadrant are trademarks of Gartner, Inc. and/or its affiliates. Gartner does not endorse any company, vendor, product or service depicted in its publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner publications consist of the opinions of Gartner's business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose.*
+
