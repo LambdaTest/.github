@@ -1,4 +1,4 @@
-<h1 align="center">TestMu AI: A Full Stack Agentic AI Quality Engineering Platform</h1>
+<h1 align="center">TestMu AI (Formerly LambdaTest): An Agentic AI Quality Engineering Platform</h1>
 
 <p align="center">
   The native AI-agentic cloud to author, orchestrate, and run tests at scale.<br>
@@ -21,34 +21,55 @@
 
 ---
 
-## 👋 Hey, this is us
+TestMu AI (Formerly LambdaTest) is an agentic AI quality engineering platform. LambdaTest became TestMu AI on January 12, 2026.
 
-We are TestMu AI, the full-stack agentic AI quality engineering cloud. We help engineering teams automate E2E testing across web, mobile, visual, accessibility, and AI agents in one platform.
+TestMu AI runs the whole lifecycle in one place: plan, author, execute, and analyze. Autonomous AI agents plan, write, and evolve your E2E tests from natural language prompts or company-wide context. They cover every layer, including UI, API, database, and performance. A high-performance agentic test cloud then runs those tests at any scale, on shared cloud, private cloud, or on-premises.
 
-Autonomous AI agents plan, author, and evolve your E2E tests from natural language prompts or company-wide context, across every layer: UI, API, database, performance, and more. A high-performance agentic test cloud runs them at any scale on shared cloud, private cloud, or on-premise. And as AI ships into production, we assure that it works as intended, safely and securely, across chat, voice, IVR, phone, and video agents.
+<br/>
 
-## 🔁 One platform for every stage of End-to-End (E2E) testing
-
-E2E testing validates a complete user journey, from the first click to the final confirmation screen. On TestMu AI, the whole lifecycle runs in one place: plan it, author it, execute it, analyze it.
-
-<centre><img width="805" height="346" alt="image" src="https://github.com/user-attachments/assets/b542f39c-f91d-421d-bc63-a94e62549b4b" /></centre>
+<img width="800" alt="TestMu AI platform across four stages: Planning (Test Manager), Authoring (KaneAI, Kane CLI, MCP Server, Agent Testing, Agent Assurance), Execute (HyperExecute), Analysis (Test Intelligence)" src="https://github.com/user-attachments/assets/34be9763-d607-44a2-aeea-5dce6ae57462" />
 
 ## 🧰 What we build
 
+Every stage of testing, in one platform: plan, author, execute, and analyze, with products for testing the AI you ship too.
+
+### Planning
+
 | Product | What it does | Docs |
 |---|---|---|
-| **KaneAI** | GenAI-native testing agent. Author, evolve, and debug tests in natural language | [Get started](https://www.testmuai.com/support/docs/getting-started-with-kane-ai/) |
-| **Kane CLI** | Testing agent for humans and agents. Test authoring from the terminal | [Get started](https://www.testmuai.com/docs/kane-cli-introduction) |
-| **Agent Assurance** | Test conversational agents, autonomous agents, multi-agent systems, agentic workflows and processes.| [Get started](https://www.testmuai.com/support/docs/agent-assurance-quickstart/) |
-| **MCP Server** | Connect Claude, Cursor, or any MCP client to your testing environment. HyperExecute, Automation, SmartUI, Accessibility, and Test Manager tools in natural language | [Get started](https://www.testmuai.com/support/docs/testmu-mcp-server/) |
-| **HyperExecute** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
-| **Automation Cloud** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/getting-started-with-testmu-automation/) |
-| **App Automation** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
-| **Real Device Cloud** | Real Android and iOS devices for manual and automated testing | [Get started](https://www.testmuai.com/support/docs/app-testing-on-real-devices/) |
-| **SmartUI** | AI-native visual testing with visual diffing and root cause analysis | [Get started](https://www.testmuai.com/support/docs/smart-visual-regression-testing/) |
-| **Accessibility Testing** | WCAG, ADA, and Section 508 compliance testing | [Get started](https://www.testmuai.com/support/docs/accessibility-testing/) |
-| **Browser Cloud** | Browser infrastructure for AI agents. Sessions on demand, at scale | [Get started](https://www.testmuai.com/support/docs/what-is-browser-cloud/) |
-| **Test Manager** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
+| **[Test Manager](https://www.testmuai.com/test-manager/)** | Create, run, and report across manual and automated tests | [Get started](https://www.testmuai.com/support/docs/create-projects/) |
+
+### Authoring
+
+| Product | What it does | Docs |
+|---|---|---|
+| **[KaneAI](https://www.testmuai.com/kane-ai/)** | GenAI-native testing agent. Author, evolve, and debug tests in natural language | [Get started](https://www.testmuai.com/support/docs/getting-started-with-kane-ai/) |
+| **[Kane CLI](https://www.testmuai.com/kane-cli/)** | Testing agent for developers and coding agents. Runs natural language checks from the terminal on web and mobile and returns an evidence-backed pass/fail | [Get started](https://www.testmuai.com/docs/kane-cli-introduction) |
+| **[MCP Server](https://www.testmuai.com/mcp/)** | Connect Claude, Cursor, or any MCP client to your testing environment. HyperExecute, Automation, SmartUI, Accessibility, and Test Manager tools in natural language | [Get started](https://www.testmuai.com/support/docs/testmu-mcp-server/) |
+| **[Agent Testing](https://www.testmuai.com/agent-testing/)** | Tests chat, voice, IVR, phone, video and image AI agents for hallucination, bias, toxicity and compliance | [Get started](https://www.testmuai.com/support/docs/getting-started-with-agent-testing-platform/) |
+| **[Agent Assurance](https://www.testmuai.com/agent-assurance/)** | Tests AI agents that act: they call tools, write files, hit APIs, and run multi-step workflows. Checks what the agent did and said, using tool calls, files, and artifacts captured through hooks you configure | [Get started](https://www.testmuai.com/support/docs/agent-assurance-quickstart/) |
+
+### Execute
+
+| Product | What it does | Docs |
+|---|---|---|
+| **[HyperExecute](https://www.testmuai.com/hyperexecute/)** | AI-native test orchestration with JIT test infrastructure | [Get started](https://www.testmuai.com/support/docs/getting-started-with-hyperexecute/) |
+| **[Automation Cloud](https://www.testmuai.com/automation-cloud/)** | Selenium, Cypress, Playwright, and Puppeteer across 3000+ browsers | [Get started](https://www.testmuai.com/support/docs/testmu-running-your-first-selenium-test/) |
+| **[Real Device Cloud](https://www.testmuai.com/real-device-cloud/)** | Real Android and iOS devices for manual and automated testing | [Get started](https://www.testmuai.com/support/docs/app-testing-on-real-devices/) |
+| **[App Automation](https://www.testmuai.com/app-automation/)** | Appium, Espresso, XCUITest, and Flutter on real and virtual devices | [Get started](https://www.testmuai.com/support/docs/getting-started-with-appium-testing/) |
+| **[SmartUI](https://www.testmuai.com/visual-testing-tool/)** | AI-native visual testing with visual diffing and root cause analysis | [Get started](https://www.testmuai.com/support/docs/smart-visual-regression-testing/) |
+| **[Accessibility Testing](https://www.testmuai.com/accessibility-testing/)** | WCAG, ADA, and Section 508 compliance testing | [Get started](https://www.testmuai.com/support/docs/accessibility-testing/) |
+| **[Browser Cloud](https://www.testmuai.com/browser-cloud/)** | Browser infrastructure for AI agents. Sessions on demand, at scale | [Get started](https://www.testmuai.com/support/docs/what-is-browser-cloud/) |
+
+### Analysis
+
+| Product | What it does | Docs |
+|---|---|---|
+| **[Test Intelligence](https://www.testmuai.com/test-intelligence/)** | The AI agentic layer on your test results. Detects flaky tests, suggests likely root causes, clusters failures, and tracks error trends | [Get started](https://www.testmuai.com/support/docs/test-intelligence-overview/) |
+
+- **Scale**: 3M+ users, 18K+ enterprises, 1.5B+ tests run, 132 countries, 50,000+ real devices, 120+ integrations.
+- **Recognition**:Leader in the [2026 Gartner® Magic Quadrant™ for Agentic Software Quality Assurance Platforms](https://www.testmuai.com/gartner-magic-quadrant-agentic-software-quality-assurance-platforms/); recognized in The Forrester Wave™: Autonomous Testing Platforms, Q4 2025; 4.6/5 on Capterra and Gartner Peer Insights.
+- **Pricing**: free plans available; KaneAI from $17 per agent per month, billed annually.
 
 ## 🧩 Works with your stack
 
@@ -81,7 +102,7 @@ See all [120+ integrations](https://www.testmuai.com/integrations/).
 - **[Test Automation Certifications](https://www.testmuai.com/certifications/)**: Free certifications for testers and developers
 - **[Learning Hub](https://www.testmuai.com/learning-hub/)**: Guides on E2E testing, automation, and test strategy
 - **[Blog](https://www.testmuai.com/blog/)**: Practitioner write-ups from our engineers and community
-- **[TestMu Conf](https://www.testmuai.com/testmu-conf/)**: Our annual testing conference
+- **[TestMu Conf'26](https://www.testmuai.com/testmuconf-2026/)**: Our annual testing conference
 - **[YouTube](https://www.youtube.com/@TestMuAI)**: Tutorials, demos, and webinars
 
 ## 🤝 Contributing
@@ -89,3 +110,6 @@ See all [120+ integrations](https://www.testmuai.com/integrations/).
 Found a bug in a sample repo or want to add one? Open an issue or a pull request on that repo. Product questions go to [support@testmuai.com](mailto:support@testmuai.com).
 
 ---
+
+**Disclaimer**: *Gartner, Magic Quadrant for Agentic Software Quality Assurance Platforms, By Ross Power, Sushant Singhal, C.A. Swan, 12 October 2026. Gartner and Magic Quadrant are trademarks of Gartner, Inc. and/or its affiliates. Gartner does not endorse any company, vendor, product or service depicted in its publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner publications consist of the opinions of Gartner’s business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose.*
+
